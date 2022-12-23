@@ -34,6 +34,9 @@ Membuat project menggunakan Firebase
 
    ![Screenshot (43)](https://user-images.githubusercontent.com/68968229/209294041-3ca1aff5-3044-4836-bac0-512c5c844b65.png)
 
+
+## [Link Presentasi dan Demo CRUD](https://youtu.be/B1RQZURGE5Q)
+
 ## Beberapa Endpoints
 
 ![1](https://user-images.githubusercontent.com/68968229/209291945-3da9589a-442b-4907-b45a-8febc0b6fe89.png)
